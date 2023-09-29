@@ -1,0 +1,73 @@
+Identificação dos Casos de Uso:
+
+Museu
+ACERVO MUSEOLÓGICO
+PEDIDO DE CONSULTA DO ACERVO:
+• Pedido de consulta
+• Preenchimento da ficha
+• Parecer pelo Coordenador
+• Empreender a consulta
+
+CEDÊNCIA DE BENS E TRANSPORTE:
+• Preparação da informação pormenorizada da situação
+• Pedido de cedência de bens
+• Aprovação
+• Empréstimo temporário
+• Motivo de força maior
+• Restauro ou Conservação
+• Verificação das condições de segurança
+• Seguros
+• Preenchimento do acordo de peças para efeito de exposições temporárias
+• Levantamento das peças
+• Acondicionamento das peças
+• Preenchimento do relatório de verificação de peças em trânsito
+• Transporte
+• Desembalagem
+
+PESQUISAS NA BASE DE DADOS DO MUSEU
+• Aceder ao Site
+• Aceder a Informação como convidado
+
+ CEDÊNCIA DE IMAGENS
+• Requisitar a cedência de imagens digitalizadas
+• Verificar direitos de autor
+• Pedir autorização escrita ao proprietário da imagem
+• Pedir autorização ao Coordenador da Documentação e Cultura
+• Autorizar recolha de fotografias
+• Pedido de autorização da presidência
+• Autorizar recolha de filmagens
+• Aplica Taxas
+
+ VISITAS
+• Marcação de visitas
+• Indicação de informações necessárias
+• Registo em impresso próprio das visitas
+• Eleição de um funcionário competente
+• Atender a visita
+• Acompanhar a visita
+
+PEDIDO DE CONSULTA DO ARQUIVO HISTÓRICO
+• Pedido para consulta
+• Dar parecer
+• Comunicar condições de consulta
+• Combinar Data e Hora
+• Preenchimento da ficha de Consulta de Documentação pertencente ao Arquivo
+Histórico
+• Preenchimento do Termo de responsabilidade
+• Empreender consulta
+• Acompanhar consulta
+
+PEDIDO DE CONSULTA DO FUNDO BIBLIOGRÁFICO
+• Pedido para consulta
+• Dar parecer
+• Comunicar condições de consulta
+• Combinar Data e Hora
+• Preenchimento da ficha do Fundo Bibliográfico Antigo
+• Preenchimento do Termo de responsabilidade
+• Empreender consulta
+• Acompanhar consulta
+
+INSTRUMENTOS DE GESTÃO DO CDDC
+• Elaboração do plano de atividade setorial da divisão
+• Redação do relatório anual de atividades do Museu
+• Acompanhamento dos indicadores de desempenho
